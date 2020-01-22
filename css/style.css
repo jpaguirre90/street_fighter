@@ -1,6 +1,6 @@
 /* seems like each spirte is 70px wide and 80px high */
 .character{
-	width:70px;
+	width: 70px;
 	height:80px;
 	display:inline-block;
 	position:absolute;
@@ -8,7 +8,7 @@
 	left:100px;
 }
 #field{
-	background-image: url('../images/background_blanka.gif');
+	background-image: url(../images/animated-gifs-of-fighting-game-backgrounds-26.gif);
 	width:621px;
 	height:224px;
 	position:relative;
@@ -22,3 +22,8 @@ body{
 h2{
 	font-size:14px;
 }
+ #Lista{
+	background-color: red;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+ }
